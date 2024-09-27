@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cca6e972.css",
+    "main.js": "/static/js/main.392d0a53.js",
+    "static/media/estate2.jpg": "/static/media/estate2.0a4e3548d3e87336b379.jpg",
+    "static/media/estate4.jpg": "/static/media/estate4.eac23b74fcdbefa300b8.jpg",
+    "static/media/villa.png": "/static/media/villa.60c721bb0dbca83599a1.png",
+    "static/media/estate3.jpg": "/static/media/estate3.228e93015e05f99242cb.jpg",
+    "static/media/townhouse (1).png": "/static/media/townhouse (1).5eff4e254f92de7699da.png",
+    "static/media/estate.png": "/static/media/estate.2ef393ebd0fc3e38b4d3.png",
+    "static/media/realestatebeach.jpg": "/static/media/realestatebeach.5a501719847a65220b93.jpg",
+    "static/media/singlefamily.jpg": "/static/media/singlefamily.396c1e8ff4dc3877957b.jpg",
+    "static/media/person.jpeg": "/static/media/person.37eca8bf9c7e20e59143.jpeg",
+    "index.html": "/index.html",
+    "main.cca6e972.css.map": "/static/css/main.cca6e972.css.map",
+    "main.392d0a53.js.map": "/static/js/main.392d0a53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca6e972.css",
+    "static/js/main.392d0a53.js"
+  ]
+}
